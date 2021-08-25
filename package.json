@@ -16,7 +16,7 @@
     "@primer/components": "^28.1.1",
     "@primer/css": "^16.2.0",
     "@primer/octicons": "^14.1.0",
-    "@primer/octicons-react": "^14.1.0",
+    "@primer/octicons-react": "^14.2.1",
     "ajv": "^8.5.0",
     "ajv-formats": "^2.1.0",
     "algoliasearch": "^4.9.1",
